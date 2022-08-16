@@ -26,6 +26,8 @@ export default defineConfig({
         lineNumbers: true
     },
 
+    base: '/vue-components/',
+
     /**
      * Default theme configuration
      */
