@@ -1,0 +1,22 @@
+import{_ as s,o as n,c as a,i as e}from"./app.8c979c91.js";const T=JSON.parse('{"title":"\u0410\u0432\u0442\u043E\u0440\u0441\u043A\u0438\u0435 \u043F\u0440\u0430\u0432\u0430","description":"","frontmatter":{},"headers":[],"relativePath":"pages/license.md","lastUpdated":1661004784000}'),l={name:"pages/license.md"},p=e(`<h1 id="\u0430\u0432\u0442\u043E\u0440\u0441\u043A\u0438\u0435-\u043F\u0440\u0430\u0432\u0430" tabindex="-1">\u0410\u0432\u0442\u043E\u0440\u0441\u043A\u0438\u0435 \u043F\u0440\u0430\u0432\u0430 <a class="header-anchor" href="#\u0430\u0432\u0442\u043E\u0440\u0441\u043A\u0438\u0435-\u043F\u0440\u0430\u0432\u0430" aria-hidden="true">#</a></h1><p>\u0412\u0441\u0435 \u043A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u044B \u0440\u0430\u0441\u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u044F\u044E\u0442\u0441\u044F \u043F\u043E \u043B\u0438\u0446\u0435\u043D\u0437\u0438\u0438 MIT.</p><div class="language-text line-numbers-mode"><span class="copy"></span><pre><code><span class="line"><span style="color:#A6ACCD;">Copyright 2022 Danil Vinogradov  </span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span>
+<span class="line"><span style="color:#A6ACCD;">Permission is hereby granted, free of charge, to any person obtaining</span></span>
+<span class="line"><span style="color:#A6ACCD;">a copy of this software and associated documentation files (the</span></span>
+<span class="line"><span style="color:#A6ACCD;">&quot;Software&quot;), to deal in the Software without restriction, including</span></span>
+<span class="line"><span style="color:#A6ACCD;">without limitation the rights to use, copy, modify, merge, publish,</span></span>
+<span class="line"><span style="color:#A6ACCD;">distribute, sublicense, and/or sell copies of the Software, and to</span></span>
+<span class="line"><span style="color:#A6ACCD;">permit persons to whom the Software is furnished to do so, subject</span></span>
+<span class="line"><span style="color:#A6ACCD;">to the following conditions:</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span>
+<span class="line"><span style="color:#A6ACCD;">The above copyright notice and this permission notice shall be</span></span>
+<span class="line"><span style="color:#A6ACCD;">included in all copies or substantial portions of the Software.</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span>
+<span class="line"><span style="color:#A6ACCD;">THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND,</span></span>
+<span class="line"><span style="color:#A6ACCD;">EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES</span></span>
+<span class="line"><span style="color:#A6ACCD;">OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND</span></span>
+<span class="line"><span style="color:#A6ACCD;">NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT</span></span>
+<span class="line"><span style="color:#A6ACCD;">HOLDERS BE LIABLE FOR ANY CLAIM,DAMAGES OR OTHER LIABILITY,</span></span>
+<span class="line"><span style="color:#A6ACCD;">WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING</span></span>
+<span class="line"><span style="color:#A6ACCD;">FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR</span></span>
+<span class="line"><span style="color:#A6ACCD;">OTHER DEALINGS IN THE SOFTWARE.</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span></code></pre><div class="line-numbers-wrapper"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br></div></div>`,3),o=[p];function r(i,c,t,A,C,b){return n(),a("div",null,o)}var d=s(l,[["render",r]]);export{T as __pageData,d as default};
