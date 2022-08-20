@@ -9,7 +9,7 @@ export default defineConfig({
     /**
      * Meta title tag.
      */
-    title: 'vue-components.ru',
+    title: 'VueComponents.ru',
 
     /**
      * Meta description tag.
@@ -26,13 +26,18 @@ export default defineConfig({
         lineNumbers: true
     },
 
+    head: [
+        ['script', { src: '/js/metrika.js', type: 'text/javascript'}]
+    ],
+
+
     /**
      * Default theme configuration
      */
     themeConfig: {
         nav: [
-            { text: 'О проекте', link: '/pages/about' },
-            { text: 'Лицензирование', link: '/pages/license' },
+            {text: 'О проекте', link: '/pages/about'},
+            {text: 'Лицензирование', link: '/pages/license'},
         ],
 
         sidebar: [
@@ -40,25 +45,30 @@ export default defineConfig({
                 text: 'Компоненты',
                 collapsible: true,
                 items: [
-                    { text: 'Переключатель (switcher)', link: 'components/switcher' },
+                    {text: 'switch', link: 'components/switch'},
                     // { text: 'Кастомный инпут', link: 'components/custom-input' },
                     // { text: 'Кастомный чекбокс', link: 'components/custom-checkbox' },
                     // { text: 'Кастомные радиокнопки', link: 'components/custom-radio' },
                 ]
             },
-            {
-                text: 'Гайды',
-                collapsible: true,
-                items: [
-                    // This shows `/guide/index.md` page.
-                    { text: 'Introduction', link: '/new' }
-                ]
-            },
+            // {
+            //     text: 'Гайды',
+            //     collapsible: true,
+            //     items: [
+            // This shows `/guide/index.md` page.
+            // { text: 'Introduction', link: '/new' }
+            // ]
+            // },
         ],
 
+        editLink: {
+            text: 'Edit this page on GitHub',
+            pattern: 'https://github.com/danielvinogradov/vue-components/edit/master/docs/:path'
+        },
+
         footer: {
-            message: 'KEK',
-            // copyright: 'Copyright © 2019-present Evan You'
+            // message: 'some message',
+            copyright: 'Copyright © 2022-present Danil Vinogradov'
         }
     }
 })
